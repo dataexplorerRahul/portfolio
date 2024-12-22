@@ -1,0 +1,31 @@
+project:
+  type: website
+  preview: 
+    port: 4200
+    browser: true
+        
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+website:
+  title: "Rahul Menon"
+  search: false
+  navbar:
+    background: primary
+    left:
+      - text: About Me
+        href: pages/about.qmd
+      - text: Blogs 
+        href: pages/blogs.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rahulmenon1758/
+      - icon: github
+        href: https://github.com/dataexplorerRahul
+
+
+
+

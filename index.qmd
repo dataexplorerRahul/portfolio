@@ -1,0 +1,19 @@
+---
+title: "Rahul Menon"
+image: images/profile-photo.jpeg
+about: 
+    template: jolla
+    image-width: 8em
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/rahulmenon1758/
+        - icon: github
+          text: GitHub
+          href: https://github.com/dataexplorerRahul
+        - icon: envelope
+          text: Contact Me
+          href: https://mail.google.com/mail/?view=cm&fs=1&to=rahulmenon1758@gmail.com
+---
+Machine Learning & Deep Learning Enthusiast | Love to Code
+
